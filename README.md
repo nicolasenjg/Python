@@ -1,5 +1,10 @@
 # Python
 
+*In this portfolio you will find different projects that I accomplished whike developing my Python Skills.*
+
+
+
+##Project 1##
 
 **Instacart Grocery Basket Analysis**
 
