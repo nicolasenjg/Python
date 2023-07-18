@@ -1,6 +1,8 @@
-# Python
+# Nicolas Jijon's Python Portfolio
 
-*In this portfolio you will find different projects that I accomplished whike developing my Python Skills.*
+Welcome to my Python portfolio! This code repository contains examples of Python I've written. Feel free to take a look and reach out if you have any questions.
+
+*In this portfolio you will find different projects that I accomplished while developing my Python Skills.*
 
 
 
